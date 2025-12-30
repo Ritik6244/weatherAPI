@@ -1,6 +1,5 @@
 package com.weatherInfo.weatherInfo.controller;
 
-import com.weatherInfo.weatherInfo.entity.City;
 import com.weatherInfo.weatherInfo.service.WeatherService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
